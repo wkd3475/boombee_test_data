@@ -1,0 +1,15 @@
+{
+    "id" : "C001002001",
+    "name" : "광나루 인라인스케이트장 옆 잔디",
+    "location": "서울 강동구 천호동 481-6",
+    "latitude" : "37.543316",
+    "longitude" : "127.116928",
+    "radius" : 96,
+    "telephone" : "02-3780-0501",
+    "hour" : "매일 00:00 - 24:00",
+    "website" : "https://hangang.seoul.go.kr/archives/46585",
+    "data" : [
+        {"date" : "2021-02-02 08:00", "density" : 20, "average_distance" : 35},
+        {"date" : "2021-02-02 09:00", "density" : 30, "average_distance" : 30}
+    ]
+}
